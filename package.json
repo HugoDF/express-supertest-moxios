@@ -11,14 +11,14 @@
   "author": "Hugo Di Francesco",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
-    "express": "^4.16.3",
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
     "redis": "^2.8.0"
   },
   "devDependencies": {
     "jest": "^24.7.1",
     "jest-cli": "^24.7.1",
     "moxios": "^0.4.0",
-    "supertest": "^3.1.0"
+    "supertest": "^4.0.2"
   }
 }
