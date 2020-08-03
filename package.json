@@ -16,7 +16,7 @@
     "redis": "^3.0.2"
   },
   "devDependencies": {
-    "jest": "^26.2.1",
+    "jest": "^26.2.2",
     "moxios": "^0.4.0",
     "supertest": "^4.0.2"
   }
