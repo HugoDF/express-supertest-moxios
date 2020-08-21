@@ -11,7 +11,7 @@
   "author": "Hugo Di Francesco",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.20.0",
     "express": "^4.17.1",
     "redis": "^3.0.2"
   },
