@@ -18,6 +18,6 @@
   "devDependencies": {
     "jest": "^27.1.0",
     "moxios": "^0.4.0",
-    "supertest": "^6.1.5"
+    "supertest": "^6.1.6"
   }
 }
